@@ -1,0 +1,13 @@
+.my_body {
+    width: 720px;
+    margin: auto;
+    text-align: center;
+    padding-top: 3em;
+}
+
+
+.my-mobile-body {
+    margin: auto;
+    text-align: center;
+    padding-top: 3em;
+}
